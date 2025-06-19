@@ -1,0 +1,17 @@
+{
+  "name": "minecraft-bot-joiner",
+  "version": "1.0.0",
+  "description": "Minecraft Bot Joiner Tool",
+  "main": "mc_bot_joiner.js",
+  "engines": {
+    "node": ">=16.0.0 <21.0.0"
+  },
+  "dependencies": {
+    "mineflayer": "^4.14.1",
+    "chalk": "^4.1.2",
+    "vec3": "^0.1.7"
+  },
+  "scripts": {
+    "start": "node mc_bot_joiner.js"
+  }
+}
